@@ -1,0 +1,9 @@
+{
+  "Employee": {
+    "firstName": "string",
+    "lastName": "string",
+    "title": "string",
+    "id": "int",
+    "startingYear": "int"
+  }
+}
