@@ -1,33 +1,37 @@
 {
   "employees": [
-  {
-    "firstName": "Henri",
-    "lastName": "Smith",
-    "startingYear": 1993,
-    "title": "vice president",
-    "department": "accounting"
-  },
-  {
-    "firstName": "Samantha",
-    "lastName": "Jones",
-    "startingYear": 2012,
-    "title": "director",
-    "department": "marketing"
-  },
-  {
-    "firstName": "Rob",
-    "lastName": "Graham",
-    "startingYear": 2014,
-    "title": "director",
-    "department": "engineering"
-  },
-  {
-    "firstName": "Liz",
-    "lastName": "Bach",
-    "startingYear": 2009,
-    "title": "director",
-    "department": "sales"
-  }
+    {
+      "firstName": "Henri",
+      "lastName": "Smith",
+      "startingYear": 1993,
+      "title": "vice president",
+      "department": "accounting",
+      "ptoAccrual": 5
+    },
+    {
+      "firstName": "Samantha",
+      "lastName": "Jones",
+      "startingYear": 2012,
+      "title": "director",
+      "department": "marketing",
+      "ptoAccrual": 5
+    },
+    {
+      "firstName": "Rob",
+      "lastName": "Graham",
+      "startingYear": 2014,
+      "title": "director",
+      "department": "engineering",
+      "ptoAccrual": 5
+    },
+    {
+      "firstName": "Liz",
+      "lastName": "Bach",
+      "startingYear": 2009,
+      "title": "director",
+      "department": "sales",
+      "ptoAccrual": 5
+    }
   ]
 }
 
