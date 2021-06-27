@@ -3,7 +3,7 @@
     {
       "firstName": "Henri",
       "lastName": "Smith",
-      "startingYear": 1993,
+      "startingDate": "1993/10/23 9:00",
       "title": "vice president",
       "department": "accounting",
       "ptoAccrual": 5
@@ -11,7 +11,7 @@
     {
       "firstName": "Samantha",
       "lastName": "Jones",
-      "startingYear": 2012,
+      "startingDate": "2012/07/06 9:00",
       "title": "director",
       "department": "marketing",
       "ptoAccrual": 5
@@ -19,7 +19,7 @@
     {
       "firstName": "Rob",
       "lastName": "Graham",
-      "startingYear": 2014,
+      "startingDate": "2014/03/02 9:00",
       "title": "director",
       "department": "engineering",
       "ptoAccrual": 5
@@ -27,7 +27,7 @@
     {
       "firstName": "Liz",
       "lastName": "Bach",
-      "startingYear": 2009,
+      "startingDate": "2009/06/02 9:00",
       "title": "director",
       "department": "sales",
       "ptoAccrual": 5
